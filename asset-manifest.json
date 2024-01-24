@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/workbook/static/css/main.00ae95c8.css",
-    "main.js": "/workbook/static/js/main.6f718bdc.js",
+    "main.css": "/workbook/static/css/main.2a5220d3.css",
+    "main.js": "/workbook/static/js/main.81478ebf.js",
     "static/js/391.070e3e44.chunk.js": "/workbook/static/js/391.070e3e44.chunk.js",
     "static/js/787.8f908bc3.chunk.js": "/workbook/static/js/787.8f908bc3.chunk.js",
     "static/js/511.7efbe4f3.chunk.js": "/workbook/static/js/511.7efbe4f3.chunk.js",
@@ -81,14 +81,14 @@
     "static/media/KaTeX_Size3-Regular.woff": "/workbook/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/workbook/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/workbook/index.html",
-    "main.00ae95c8.css.map": "/workbook/static/css/main.00ae95c8.css.map",
-    "main.6f718bdc.js.map": "/workbook/static/js/main.6f718bdc.js.map",
+    "main.2a5220d3.css.map": "/workbook/static/css/main.2a5220d3.css.map",
+    "main.81478ebf.js.map": "/workbook/static/js/main.81478ebf.js.map",
     "391.070e3e44.chunk.js.map": "/workbook/static/js/391.070e3e44.chunk.js.map",
     "787.8f908bc3.chunk.js.map": "/workbook/static/js/787.8f908bc3.chunk.js.map",
     "511.7efbe4f3.chunk.js.map": "/workbook/static/js/511.7efbe4f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00ae95c8.css",
-    "static/js/main.6f718bdc.js"
+    "static/css/main.2a5220d3.css",
+    "static/js/main.81478ebf.js"
   ]
 }
